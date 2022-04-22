@@ -1,0 +1,39 @@
+.container {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #FD5D5D;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px gray;
+}
+
+.title {
+    color: white;
+    padding: 20px;
+    font-weight: 300;
+}
+
+.pizza-image {
+    width: 80px;
+}
+
+.pizza-text {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+    left: 15px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.pizza-btn {
+    padding: 10px 20px;
+    margin-top: 30px;
+    border: none;
+    font-size: 17px;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: #FFF7BC;
+}
